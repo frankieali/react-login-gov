@@ -20,3 +20,19 @@
 .App-link {
   color: #09d3ac;
 }
+
+.login-button {
+  font-size: 36px;
+  padding: 5px 20px;
+  border-radius: 10px;
+}
+
+.login-button:hover {
+  cursor: pointer;
+  background-color: #045948;
+  color: #fff;
+}
+
+.loading {
+  display: flex;
+}
